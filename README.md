@@ -1,4 +1,4 @@
-# ML_NeuralNetworks
+<!-- # ML_NeuralNetworks
 Using Neural Networks to Predict Toughness
 
 
@@ -45,4 +45,15 @@ Using Neural Networks to Predict Toughness
 * group_3.csv                - 目標輸出檔案
 * group_3.zip                - 原始圖片
 * group_3_re.zip             - 80*80灰階圖片
-* ML_Final_group3.pdf        - 報告
+* ML_Final_group3.pdf        - 報告 -->
+
+<img src="./images/ML_Final_group3_page-0002.jpg" />
+<img src="./images/ML_Final_group3_page-0003.jpg" />
+<img src="./images/ML_Final_group3_page-0004.jpg" />
+<img src="./images/ML_Final_group3_page-0005.jpg" />
+<img src="./images/ML_Final_group3_page-0006.jpg" />
+<img src="./images/ML_Final_group3_page-0007.jpg" />
+<img src="./images/ML_Final_group3_page-0008.jpg" />
+<img src="./images/ML_Final_group3_page-0009.jpg" />
+<img src="./images/ML_Final_group3_page-0010.jpg" />
+<img src="./images/ML_Final_group3_page-0011.jpg" />
